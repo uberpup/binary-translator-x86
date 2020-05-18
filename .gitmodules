@@ -1,3 +1,4 @@
 [submodule "industrial-programming-course"]
+	branch = CPU
 	path = industrial-programming-course
 	url = https://github.com/uberpup/industrial-programming-course.git
